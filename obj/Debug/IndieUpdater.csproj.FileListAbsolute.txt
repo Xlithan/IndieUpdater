@@ -1,0 +1,14 @@
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.csproj.AssemblyReference.cache
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.frmMain.resources
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.Properties.Resources.resources
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.csproj.GenerateResource.cache
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.csproj.CoreCompileInputs.cache
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\bin\Debug\IndieUpdater.exe.config
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\bin\Debug\IndieUpdater.exe
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\bin\Debug\IndieUpdater.pdb
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\bin\Debug\DotNetZip.dll
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\bin\Debug\DotNetZip.pdb
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\bin\Debug\DotNetZip.xml
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.csproj.CopyComplete
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.exe
+D:\Game Development\C#\DarnothUpdater\IndieUpdater\obj\Debug\IndieUpdater.pdb

@@ -1,0 +1,14 @@
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\bin\Debug\DarnothUpdater.exe.config
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\bin\Debug\DarnothUpdater.exe
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\bin\Debug\DarnothUpdater.pdb
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.Properties.Resources.resources
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.csproj.GenerateResource.cache
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.csproj.CoreCompileInputs.cache
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.exe
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.pdb
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.frmMain.resources
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.csproj.AssemblyReference.cache
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\bin\Debug\DotNetZip.dll
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\bin\Debug\DotNetZip.pdb
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\bin\Debug\DotNetZip.xml
+D:\Game Development\C#\DarnothUpdater\DarnothUpdater\obj\Debug\DarnothUpdater.csproj.CopyComplete
