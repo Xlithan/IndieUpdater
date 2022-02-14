@@ -35,12 +35,14 @@ namespace IndieUpdater
             catch
             {
                 txtText.AppendText("\nCould not connect to update server.");
+                lblUpdate.Enabled = false;
                 return;
             }
 
             if(sVersion < 0)
             {
                 txtText.AppendText("\nCould not update (Invalid server revision).");
+                lblUpdate.Enabled = false;
                 return;
             }
             
